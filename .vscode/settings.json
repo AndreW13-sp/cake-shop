@@ -1,3 +1,15 @@
 {
-  "liveServer.settings.port": 5501
+   "liveServer.settings.port": 5501,
+   "cSpell.words": [
+      "Cloudinary",
+      "clsx",
+      "hookform",
+      "hyytlm",
+      "lucide",
+      "signup",
+      "supabase",
+      "zustand"
+   ],
+   "editor.lineHeight": 1.4,
+   "editor.fontSize": 15
 }
